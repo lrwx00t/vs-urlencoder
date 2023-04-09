@@ -1,8 +1,10 @@
 {
   "name": "url-encoder",
   "displayName": "url-encoder",
-  "description": "",
+  "description": "VSCode extension to encode or decode selected text using percent-encoding.",
   "version": "0.0.1",
+  "icon": "images/url-encoder-icon.png",
+  "publisher": "lrwx00t",
   "engines": {
     "vscode": "^1.77.0"
   },
