@@ -15,7 +15,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": ["onCommand:url-encoder.encode","onCommand:url-encoder.decode"],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
